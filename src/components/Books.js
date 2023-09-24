@@ -356,6 +356,7 @@ const Books = () => {
               <BookDescription>By {book.author}</BookDescription>
               <BookDescription>Genre: {book.subject}</BookDescription>
               <BookDescription>Release Date: {book.releasedate}</BookDescription>
+              <BookDescription style={{fontWeight:'bold', color:'Green'}}>Available</BookDescription>
               {/* <BorrowListButton onClick={() => handleBorrowClick(key={book.id})}>
                     Add to Cart
               </BorrowListButton> */}

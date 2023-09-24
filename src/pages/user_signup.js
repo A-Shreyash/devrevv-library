@@ -56,7 +56,7 @@ const Signup = () => {
             {/* <form onSubmit={handleSignup}> */}
             
         {/* <form style={{ marginTop: '50px',marginLeft: '550px' }}onSubmit={handleSubmit}> */}
-        <form className="form" style={{ marginTop: '105px',marginLeft: '550px',border:"3px solid black",boxShadow: "1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,5px 5px 0px 0px",padding:"40px", maxWidth:"23%", margin:"auto"}}onSubmit={handleSubmit}>
+        <form className="form" style={{ margin: '100px 600px',border:"3px solid black",boxShadow: "1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,5px 5px 0px 0px",padding:"40px", maxWidth:"23%"}}onSubmit={handleSubmit}>
         <HeadTitle className='headtitle' style={{marginTop: '40px',marginBottom: '80px', fontFamily: "Chomsky",fontSize:"50px"}}>Signup</HeadTitle>
             <FormGroup>
             <Label>Username</Label>

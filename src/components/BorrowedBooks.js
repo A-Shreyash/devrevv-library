@@ -38,7 +38,7 @@ if (borrowedBooks.length === 0) {
     console.log('No books borrowed');
     return (
       <div style={{ marginLeft: '50px', marginTop: '20px', marginBottom: '10px' }}>
-        <BookName>No Books Borrowed.</BookName>
+        <BookName>Empty Cart.</BookName>
       </div>
     );
   }
