@@ -57,7 +57,7 @@ const Login = () => {
             {/* <HeadTitle style={{ marginTop: '130px' }}>User Login</HeadTitle> */}
             {/* <form onSubmit={handleLogin}> */}
             
-        <form className="form" style={{ marginTop: '100px',marginLeft: '550px',border:"3px solid black",boxShadow: "1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,5px 5px 0px 0px",padding:"40px", maxWidth:"23%", marginTop:"150px", margin:"auto"}}onSubmit={handleSubmit}>
+        <form className="form" style={{ marginTop: '150px',marginLeft: '550px',border:"3px solid black",boxShadow: "1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,5px 5px 0px 0px",padding:"40px", maxWidth:"23%", margin:"auto"}}onSubmit={handleSubmit}>
         <HeadTitle className='headtitle' style={{marginTop: '40px',marginBottom: '80px', fontFamily: "Chomsky",fontSize:"50px"}}>User Login</HeadTitle>
             <FormGroup>
             <Label>Email</Label>
