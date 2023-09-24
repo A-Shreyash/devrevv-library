@@ -49,7 +49,7 @@ const handleBorrowClick = (book) => {
   if (selectedBook) {
     setBorrowedBooks((prevBorrowedBooks) => [...prevBorrowedBooks, selectedBook]);
     console.log(borrowedBooks);
-    alert(`Borrowed Book Details:\nTitle: ${selectedBook.title}\nAuthor: ${selectedBook.author}\nSubject: ${selectedBook.subject}\nRelease Date: ${selectedBook.releasedate}`);
+    alert(`Add to Cart:\nTitle: ${selectedBook.title}\nAuthor: ${selectedBook.author}\nSubject: ${selectedBook.subject}\nRelease Date: ${selectedBook.releasedate}`);
   }
 };
 
