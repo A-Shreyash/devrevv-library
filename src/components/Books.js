@@ -294,16 +294,16 @@ const Books = () => {
 
   return (
     <div>
-      <div style={{ marginLeft: '50px', marginTop: '20px', marginBottom: '10px' }}>
+      <div style={{ marginLeft: '50px', marginTop: '20px', marginBottom: '10px',overflow: 'auto' }}>
         <BookName>
         Filter by:
         </BookName>
       </div>
 
-      <FilterContainer style={{justifyContent:"space-between", maxWidth:"60%"}} >
+      <FilterContainer style={{justifyContent:"space-between", maxWidth:"60%",overflow: 'auto'}} >
         
         <Input
-        
+          style={{justifyContent:"space-between", maxWidth:"100%",overflow: 'auto'}}
           type="text"
           placeholder="Title"
           value={filterCriteria.title}
@@ -312,6 +312,7 @@ const Books = () => {
           }
         />
         <Input
+        style={{justifyContent:"space-between", maxWidth:"50%",overflow: 'auto'}}
           type="text"
           placeholder="Author"
           value={filterCriteria.author}
@@ -320,6 +321,7 @@ const Books = () => {
           }
         />
         <Input
+        style={{justifyContent:"space-between", maxWidth:"60%",overflow: 'auto'}}
           type="text"
           placeholder="Genre"
           value={filterCriteria.subject}
@@ -328,6 +330,7 @@ const Books = () => {
           }
         />
         <Input
+        style={{justifyContent:"space-between", maxWidth:"60%",overflow: 'auto'}}
           type="text"
           placeholder="Release Date"
           value={filterCriteria.releasedate}

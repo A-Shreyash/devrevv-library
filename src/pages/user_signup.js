@@ -56,11 +56,23 @@ const Signup = () => {
             {/* <form onSubmit={handleSignup}> */}
             
         {/* <form style={{ marginTop: '50px',marginLeft: '550px' }}onSubmit={handleSubmit}> */}
-        <form className="form" style={{ margin: '100px 600px',border:"3px solid black",boxShadow: "1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,5px 5px 0px 0px",padding:"40px", maxWidth:"23%"}}onSubmit={handleSubmit}>
-        <HeadTitle className='headtitle' style={{marginTop: '40px',marginBottom: '80px', fontFamily: "Chomsky",fontSize:"50px"}}>Signup</HeadTitle>
-            <FormGroup>
+        <form className="form" style={{  margin: '130px auto', // Center the form horizontally
+          maxWidth: '400px',
+          border: '3px solid black',
+          boxShadow: '1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px',
+          padding: '20px',
+          paddingTop: '80px',
+          paddingBottom: '80px'
+          }}onSubmit={handleSubmit}>
+        <HeadTitle className='headtitle' style={{fontFamily: 'Chomsky',
+    fontSize: '50px',
+    textAlign: 'center',
+    marginTop: '10px',
+    marginBottom: '50px'}}>Signup</HeadTitle>
+    <center >
+            <FormGroup style={{ marginBottom: '20px',textAlign:'center',display:'inline'}}>
             <Label>Username</Label>
-            <Input
+            <Input style={{width: '60%'}}
               type="text"
               placeholder="Enter your username"
               name="name"
@@ -68,9 +80,11 @@ const Signup = () => {
               onChange={handleChange}
             />
           </FormGroup>
-          <FormGroup>
+          </center>
+          <center >
+          <FormGroup style={{paddingTop:'10px',paddingLeft:'60px',textAlign:'center'}}>
             <Label>Email</Label>
-            <Input
+            <Input style={{width: '60%'}}
                 type="text"
                 placeholder="Enter your email"
                 name="email"
@@ -78,10 +92,11 @@ const Signup = () => {
                 onChange={handleChange}
             />
           </FormGroup>
-
-          <FormGroup>
+          </center>
+          <center>
+          <FormGroup style={{paddingTop:'10px',paddingLeft:'40px',paddingBottom:'40px',textAlign:'center'}}>
             <Label>Password</Label>
-            <Input
+            <Input style={{width: '60%'}}
               type="password"
               placeholder="Enter your password"
               name="password"
@@ -89,9 +104,12 @@ const Signup = () => {
               onChange={handleChange}
             />
           </FormGroup>
-
-          <Button style={{ marginLeft: '110px',marginTop: '50px' }} type="submit">Signup</Button>
-          <HeadDescription style={{ marginLeft: '20px'}}>Already an User? <a href ="/login" >Login!</a> </HeadDescription>
+          </center>
+          <Button style={{ marginLeft: 'auto',
+    marginRight: 'auto', // Center the button horizontally
+    marginTop: '20px',
+    display: 'block' }} type="submit">Signup</Button>
+          <HeadDescription style={{ textAlign: 'center'}}>Already an User? <a href ="/login" >Login!</a> </HeadDescription>
 
         </form>
 
