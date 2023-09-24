@@ -65,7 +65,7 @@ const NavbarHead = () => {
             <LoginLink href="/login" style={{fontFamily:"sans-serif"}}>Login</LoginLink>
           </NavItem> */}
           <NavItem>
-            <NavLink href="/" style={{fontFamily:"sans-serif"}}>Home</NavLink>
+            <NavLink href="/Home" style={{fontFamily:"sans-serif"}}>Home</NavLink>
           </NavItem>
           <NavItem>
             <NavLink href="/viewbooks" style={{fontFamily:"sans-serif"}}>View Books</NavLink>
