@@ -116,7 +116,7 @@ useEffect(() => {
                     By Deepti Kapoor.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book1)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -128,7 +128,7 @@ useEffect(() => {
                     By Iris Yamashita.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book2)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -140,7 +140,7 @@ useEffect(() => {
                 By Aleksandar Hemon.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book3)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -152,7 +152,7 @@ useEffect(() => {
                 By Jessica George.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book4)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -164,7 +164,7 @@ useEffect(() => {
                 By Dan Jones.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book5)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -176,7 +176,7 @@ useEffect(() => {
                 By Claire Jiménez.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book6)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -188,7 +188,7 @@ useEffect(() => {
                 By Amy Stuart.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book7)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -200,7 +200,7 @@ useEffect(() => {
                 By Jacqueline Holland.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book8)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -212,7 +212,7 @@ useEffect(() => {
                 By Balli Kaur Jaswal.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book9)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -224,7 +224,7 @@ useEffect(() => {
                 By Nguyễn Phan Quế Mai.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book10)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -236,7 +236,7 @@ useEffect(() => {
                 TBy Colleen Oakley.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book11)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -248,7 +248,7 @@ useEffect(() => {
                 By Kate Morton.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book12)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -260,7 +260,7 @@ useEffect(() => {
                 By Brendan Slocumb.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book13)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -272,7 +272,7 @@ useEffect(() => {
                 By Lee Smith.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book14)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -284,7 +284,7 @@ useEffect(() => {
                 By Paige Toon.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book15)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -296,7 +296,7 @@ useEffect(() => {
                 By Susie Luo.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book16)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -308,7 +308,7 @@ useEffect(() => {
                 By Mikki Brammer.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book17)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -320,7 +320,7 @@ useEffect(() => {
                 By R.F. Kuang.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book18)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -332,7 +332,7 @@ useEffect(() => {
                 By Michelle Hoffman.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book19)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -344,7 +344,7 @@ useEffect(() => {
                 By Meg Shaffer.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book20)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -356,7 +356,7 @@ useEffect(() => {
                 By Annabel Monaghan.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book21)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -368,7 +368,7 @@ useEffect(() => {
                 By Thao Thai.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book22)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -395,7 +395,7 @@ useEffect(() => {
                 By Susie Luo.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book16)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -407,7 +407,7 @@ useEffect(() => {
                 By Mikki Brammer.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book17)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -419,7 +419,7 @@ useEffect(() => {
                 By R.F. Kuang.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book18)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -432,7 +432,7 @@ useEffect(() => {
                 By Michelle Hoffman.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book19)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -444,7 +444,7 @@ useEffect(() => {
                 By Meg Shaffer.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book20)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -456,7 +456,7 @@ useEffect(() => {
                 By Annabel Monaghan.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book21)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -468,7 +468,7 @@ useEffect(() => {
                 By Thao Thai.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book22)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>            <Card>
@@ -479,7 +479,7 @@ useEffect(() => {
                     City Under One Roof by Iris Yamashita.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book2)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -491,7 +491,7 @@ useEffect(() => {
                 The World and All That It Holds by Aleksandar Hemon.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book3)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -503,7 +503,7 @@ useEffect(() => {
                 Maame by Jessica George.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book4)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -515,7 +515,7 @@ useEffect(() => {
                 Essex Dogs by Dan Jones.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book5)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -527,7 +527,7 @@ useEffect(() => {
                 What Happened to Ruthy Ramirez by Claire Jiménez.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book6)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -539,7 +539,7 @@ useEffect(() => {
                 A Death at the Party by Amy Stuart.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book7)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -551,7 +551,7 @@ useEffect(() => {
                 The God of Endings by Jacqueline Holland.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book8)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -563,7 +563,7 @@ useEffect(() => {
                     Age of Vice by Deepti Kapoor.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book1)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -575,7 +575,7 @@ useEffect(() => {
                 Now You See Us by Balli Kaur Jaswal.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book9)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -587,7 +587,7 @@ useEffect(() => {
                 Dust Child by Nguyễn Phan Quế Mai.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book10)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -599,7 +599,7 @@ useEffect(() => {
                 The Mostly True Story of Tanner & Louise by Colleen Oakley.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book11)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -611,7 +611,7 @@ useEffect(() => {
                 Homecoming by Kate Morton.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book12)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -623,7 +623,7 @@ useEffect(() => {
                 Symphony of Secrets by Brendan Slocumb.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book13)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -635,7 +635,7 @@ useEffect(() => {
                 Silver Alert by Lee Smith.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book14)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -647,7 +647,7 @@ useEffect(() => {
                 Only Love Can Hurt Like This by Paige Toon.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book15)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -673,7 +673,7 @@ useEffect(() => {
                 Homecoming by Kate Morton.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book12)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -685,7 +685,7 @@ useEffect(() => {
                 Symphony of Secrets by Brendan Slocumb.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book13)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -697,7 +697,7 @@ useEffect(() => {
                 Silver Alert by Lee Smith.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book14)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -709,7 +709,7 @@ useEffect(() => {
                 Only Love Can Hurt Like This by Paige Toon.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book15)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -721,7 +721,7 @@ useEffect(() => {
                     Age of Vice by Deepti Kapoor.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book1)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -733,7 +733,7 @@ useEffect(() => {
                     City Under One Roof by Iris Yamashita.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book2)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -745,7 +745,7 @@ useEffect(() => {
                 The World and All That It Holds by Aleksandar Hemon.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book3)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -757,7 +757,7 @@ useEffect(() => {
                 Maame by Jessica George.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book4)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -769,7 +769,7 @@ useEffect(() => {
                 Essex Dogs by Dan Jones.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book5)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -781,7 +781,7 @@ useEffect(() => {
                 What Happened to Ruthy Ramirez by Claire Jiménez.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book6)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -793,7 +793,7 @@ useEffect(() => {
                 A Death at the Party by Amy Stuart.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book7)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -805,7 +805,7 @@ useEffect(() => {
                 The God of Endings by Jacqueline Holland.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book8)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -817,7 +817,7 @@ useEffect(() => {
                 Now You See Us by Balli Kaur Jaswal.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book9)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -829,7 +829,7 @@ useEffect(() => {
                 Dust Child by Nguyễn Phan Quế Mai.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book10)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -841,7 +841,7 @@ useEffect(() => {
                 The Mostly True Story of Tanner & Louise by Colleen Oakley.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book11)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -853,7 +853,7 @@ useEffect(() => {
                 Paper Names by Susie Luo.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book16)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -865,7 +865,7 @@ useEffect(() => {
                 The Collected Regrets of Clover by Mikki Brammer.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book17)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -877,7 +877,7 @@ useEffect(() => {
                 Yellowface by R.F. Kuang.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book18)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -889,7 +889,7 @@ useEffect(() => {
                 The Second Ending by Michelle Hoffman.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book19)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -901,7 +901,7 @@ useEffect(() => {
                 The Wishing Game by Meg Shaffer.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book20)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -913,7 +913,7 @@ useEffect(() => {
                 Same Time Next Summer by Annabel Monaghan.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book21)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>
@@ -925,7 +925,7 @@ useEffect(() => {
                 Banyan Moon by Thao Thai.
                 </CardDescription>
                 <BorrowListButton onClick={() => handleBorrowClick(book22)}>
-                    Borrow Book
+                    Add to Cart
                 </BorrowListButton>
               </CardBody>
             </Card>

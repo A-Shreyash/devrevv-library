@@ -18,7 +18,7 @@
   2. Performing paging on the list of books by implementing 10 results per page
   3. Users can see filter the list of books based on Title, Author, Genre and Release date
   4. Users can see the count of total books and also the books count based on filtered results
-  5. Users can borrow books from the home page
+  5. Users can Add to Carts from the home page
   6. The list of borrowed books is shown under borrowed books page
   7. Users can also remove a book from their borrowed books page
   8. Users can search for any book or any author using the search bar
