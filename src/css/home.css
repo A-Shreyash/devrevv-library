@@ -1,0 +1,14 @@
+@font-face{
+    font-family: "Chomsky";
+    src: url("../fonts/chomsky/Chomsky.otf") format("otf"),
+      url("../fonts/chomsky/Chomsky.woff") format("woff");
+    font-weight: bold;
+    font-style: normal;
+    
+
+} 
+
+.form form{
+    border: 3px solid black;
+  
+}
